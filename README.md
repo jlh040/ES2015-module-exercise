@@ -1,3 +1,9 @@
+
+
+# Functionality
+
+This is a very small and basic project that has allowed me to get some practice working with ES2015 modules and the importing/exporting features.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
