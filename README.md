@@ -4,6 +4,8 @@
 
 This is a very small and basic project that has allowed me to get some practice working with ES2015 modules and the importing/exporting features.
 
+In **src/helpers.js** I've created two helper functions for removing an item from an array and selecting a random item from an array, which I then export. In **src/foods.js** I've created an array of foods that I've then exported. In **src/index.js** I've imported the two helper functions and the foods array, and utilized these to create a small script.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
